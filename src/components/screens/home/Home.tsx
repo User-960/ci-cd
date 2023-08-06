@@ -11,6 +11,7 @@ const Home: FC = () => {
       <h2 data-testid="title-docs">
         Docs <span>-&gt;</span>
       </h2>
+      <p>Test CI/CD</p>
     </>
   )
 }
