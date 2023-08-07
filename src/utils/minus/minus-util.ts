@@ -1,0 +1,1 @@
+export const minusUtil = (a: number, b: number) => a - b
