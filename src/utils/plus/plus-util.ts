@@ -1,1 +1,1 @@
-export const plusUtil = (a: number, b: number) => a - b
+export const plusUtil = (a: number, b: number) => a + b
